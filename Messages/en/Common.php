@@ -3,20 +3,13 @@
 declare(strict_types=1);
 
 return [
-    'BreadcrumbModuleItalianLanguagePack' => 'Italian Language Pack',
+    'BreadcrumbModuleItalianLanguagePack' => 'Language Pack - Italian',
     'SubHeaderModuleItalianLanguagePack' => 'Complete Italian language support for MikoPBX',
-    'mlp_SoundFiles' => 'Sound Files',
-    'mlp_TranslationFiles' => 'Translation Files',
-    'mlp_TranslationStrings' => 'Translation Strings',
-    'mlp_HowToUse' => 'How to Use',
-    'mlp_Step1' => 'After enabling this language pack, select Italian as the system language in General Settings.',
-    'mlp_GoToGeneralSettings' => 'Go to General Settings',
-    'mlp_LicenseHeader' => 'License',
-    'mlp_ModuleCode' => 'Module code',
-    'mlp_SoundFilesLicense' => 'Sound files',
-    'mlp_SoundFilesLicenseText' => 'Asterisk Sound Files (CC BY-SA 4.0)',
-    'mlp_CopyrightHeader' => 'Copyright',
-    'mlp_ModuleDevelopment' => 'Module development',
-    'mlp_VoicePrompts' => 'Voice prompts',
-    'mlp_VoicePromptsSource' => 'From official Asterisk release',
+    'mlp_it_SoundFiles' => 'Sound Files',
+    'mlp_it_TranslationFiles' => 'Translation Files',
+    'mlp_it_TranslationStrings' => 'Translation Strings',
+    'mlp_it_Step1' => 'After enabling this language pack, select the appropriate language in General Settings.',
+    'mlp_it_GoToGeneralSettings' => 'Go to General Settings',
+    'mlp_it_HelpTranslate' => 'Want to improve the translation? Help us on Weblate!',
+    'mlp_it_WeblateLink' => 'Open Weblate',
 ];
